@@ -62,5 +62,9 @@ int main()
 	{
 		n = printOutput(numInputs, wordInputs, n);
 	}
+
+	std::cout << "Please press enter to exit...";
+	std::getchar();
+
 	return EXIT_SUCCESS;
 }
