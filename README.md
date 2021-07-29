@@ -1,6 +1,4 @@
-https://nbhspc21.kattis.com/problems/nbhspc21.funnysentences
-
-# Problem F: Funny Sentences
+# [Problem F: Funny Sentences](https://nbhspc21.kattis.com/problems/nbhspc21.funnysentences)
 
 A fun game for kids is to make sentences by selecting a subject, a verb, an object, and a prepositional phrase (we will limit ourselves to places here), which independently would make sense but that become funny when put together. For example, let’s say we have the following choices:
 | subjects  | verbs       | objects     | place           |
